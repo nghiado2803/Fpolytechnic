@@ -31,12 +31,6 @@
         </div>
     </header>
 
-    <!-- News Ticker -->
-    <div class="news-ticker">
-        <div class="ticker-content">
-            🎉 Chào mừng quý phóng viên đến với ABC News - Quản lý tin tức dễ dàng và hiệu quả!
-        </div>
-    </div>
 
     <!-- Main Content -->
     <div class="container">
