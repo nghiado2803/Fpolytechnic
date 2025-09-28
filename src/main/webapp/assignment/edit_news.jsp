@@ -22,10 +22,10 @@
                 <a href="news_list.jsp?type=phapluat">Pháp luật</a>
                 <a href="news_list.jsp?type=thethao">Thể thao</a>
                 <a href="reporter.jsp" class="active">Quản lý tin</a>
-                <a href="logout.jsp">Đăng xuất</a>
             </nav>
             <div class="header-actions">
                 <span class="user-info">Xin chào, Phóng viên <%= session.getAttribute("user") != null ? session.getAttribute("user") : "User" %></span>
+                <a href="logout.jsp" class="logout-btn">Đăng xuất</a>
             </div>
         </div>
     </header>
