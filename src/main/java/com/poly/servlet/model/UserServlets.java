@@ -20,7 +20,7 @@ public class UserServlets extends HttpServlet {
 
         user bean = new user();
         bean.setFullname("Nguyễn Văn Tèo");
-        bean.setGender(true);   // true = Male
+        bean.setGender(true);  
         bean.setCountry("VN");
 
         req.setAttribute("user", bean);
