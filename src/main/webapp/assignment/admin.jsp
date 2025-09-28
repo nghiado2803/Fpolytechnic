@@ -33,12 +33,6 @@
         </div>
     </header>
 
-    <!-- News Ticker -->
-    <div class="news-ticker">
-        <div class="ticker-content">
-            Chào mừng quản trị viên đến với ABC News - Quản lý hệ thống tin tức hiệu quả!
-        </div>
-    </div>
 
     <!-- Main Content -->
     <div class="container">
